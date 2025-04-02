@@ -35,6 +35,10 @@
   "name":"Martos Game",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_tileset_forest","path":"sprites/spr_tileset_forest/spr_tileset_forest.yy",},},
+    {"id":{"name":"spr_tileset_world","path":"sprites/spr_tileset_world/spr_tileset_world.yy",},},
+    {"id":{"name":"tileset_forest","path":"tilesets/tileset_forest/tileset_forest.yy",},},
+    {"id":{"name":"tileset_world","path":"tilesets/tileset_world/tileset_world.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
